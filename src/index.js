@@ -1,4 +1,3 @@
-// Your code here
 // Wait for the page to load
 document.addEventListener("DOMContentLoaded", function() {
   
